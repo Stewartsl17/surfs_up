@@ -20,8 +20,8 @@ From the two sets of summary statistics, we can see a couple differences between
 
 Based on the above results and analysis, we have seen three difference between the two months: 
 
-Average Temperature: June - 74 degrees vs. December - 71 degrees (3 degree difference)
-Minimum Temperature: June - 64 degrees vs. December - 56 degrees (8 degree difference) 
-Total Data Points: June - 1700 data points vs. December - 1517 data points
+Average Temperature: June - 74 degrees vs. December - 71 degrees (3 degree difference) <br>
+Minimum Temperature: June - 64 degrees vs. December - 56 degrees (8 degree difference) <br>
+Total Data Points: June - 1700 data points vs. December - 1517 data points <br>
 
 There are a couple of additional queriers that we could do in order to bolster our analysis. The first one would be to analyze precipitation data between the two months to see any differences that add to the weather analysis we did before. We could also look at weather again longitude and latitude which could provide some insight as to where the best places for setting up shop could be given our knowledge about the weather.
